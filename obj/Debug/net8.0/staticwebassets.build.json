@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "d5ZR9xEQJflaKNpFiNKrp4mzEgOiBrg34MYK2/9EOl8=",
+  "Source": "JwtSecurity",
+  "BasePath": "_content/JwtSecurity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
